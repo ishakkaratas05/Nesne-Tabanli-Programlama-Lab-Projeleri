@@ -1,0 +1,7 @@
+C:\Users\ishak karataş\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csprojAssemblyReference.cache
+C:\Users\ishak karataş\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+C:\Users\ishak karataş\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+C:\Users\ishak karataş\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb
+C:\Users\ishak karataş\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+C:\Users\ishak karataş\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb
