@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\NTP_ÖdevSorulariHafta_03\OrnekSoru_07\bin\Debug\OrnekSoru_07.exe.config
+C:\Users\ishak karataş\source\repos\NTP_ÖdevSorulariHafta_03\OrnekSoru_07\bin\Debug\OrnekSoru_07.exe
+C:\Users\ishak karataş\source\repos\NTP_ÖdevSorulariHafta_03\OrnekSoru_07\bin\Debug\OrnekSoru_07.pdb
+C:\Users\ishak karataş\source\repos\NTP_ÖdevSorulariHafta_03\OrnekSoru_07\obj\Debug\OrnekSoru_07.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\NTP_ÖdevSorulariHafta_03\OrnekSoru_07\obj\Debug\OrnekSoru_07.exe
+C:\Users\ishak karataş\source\repos\NTP_ÖdevSorulariHafta_03\OrnekSoru_07\obj\Debug\OrnekSoru_07.pdb
