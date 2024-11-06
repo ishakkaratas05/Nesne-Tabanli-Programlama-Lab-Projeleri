@@ -1,0 +1,10 @@
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\bin\Debug\TicTacToe Oyunu.exe.config
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\bin\Debug\TicTacToe Oyunu.exe
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\bin\Debug\TicTacToe Oyunu.pdb
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.csprojAssemblyReference.cache
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe_Oyunu.Form1.resources
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe_Oyunu.Properties.Resources.resources
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.csproj.GenerateResource.cache
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.exe
+C:\Users\ishak karataş\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.pdb
