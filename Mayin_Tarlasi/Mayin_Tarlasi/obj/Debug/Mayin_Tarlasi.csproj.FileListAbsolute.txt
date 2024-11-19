@@ -1,0 +1,7 @@
+C:\Users\ishak karataş\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csprojAssemblyReference.cache
+C:\Users\ishak karataş\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.exe.config
+C:\Users\ishak karataş\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.exe
+C:\Users\ishak karataş\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.pdb
+C:\Users\ishak karataş\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.exe
+C:\Users\ishak karataş\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.pdb
