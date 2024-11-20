@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Müsteri_Siparis\bin\Debug\Müsteri_Siparis.exe.config
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Müsteri_Siparis\bin\Debug\Müsteri_Siparis.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Müsteri_Siparis\bin\Debug\Müsteri_Siparis.pdb
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Müsteri_Siparis\obj\Debug\Müsteri_Siparis.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Müsteri_Siparis\obj\Debug\Müsteri_Siparis.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Müsteri_Siparis\obj\Debug\Müsteri_Siparis.pdb

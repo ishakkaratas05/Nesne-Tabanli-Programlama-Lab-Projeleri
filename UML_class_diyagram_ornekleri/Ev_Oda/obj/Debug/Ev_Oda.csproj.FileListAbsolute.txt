@@ -1,0 +1,7 @@
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ev_Oda\bin\Debug\Ev_Oda.exe.config
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ev_Oda\bin\Debug\Ev_Oda.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ev_Oda\bin\Debug\Ev_Oda.pdb
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ev_Oda\obj\Debug\Ev_Oda.csprojAssemblyReference.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ev_Oda\obj\Debug\Ev_Oda.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ev_Oda\obj\Debug\Ev_Oda.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ev_Oda\obj\Debug\Ev_Oda.pdb

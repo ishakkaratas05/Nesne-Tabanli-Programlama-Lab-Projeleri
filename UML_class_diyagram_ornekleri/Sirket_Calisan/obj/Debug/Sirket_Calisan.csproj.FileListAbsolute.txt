@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Sirket_Calisan\obj\Debug\Sirket_Calisan.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Sirket_Calisan\bin\Debug\Sirket_Calisan.exe.config
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Sirket_Calisan\bin\Debug\Sirket_Calisan.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Sirket_Calisan\bin\Debug\Sirket_Calisan.pdb
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Sirket_Calisan\obj\Debug\Sirket_Calisan.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Sirket_Calisan\obj\Debug\Sirket_Calisan.pdb

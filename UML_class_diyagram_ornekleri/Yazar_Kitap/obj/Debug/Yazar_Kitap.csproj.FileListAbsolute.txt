@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Yazar_Kitap\bin\Debug\Yazar_Kitap.exe.config
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Yazar_Kitap\bin\Debug\Yazar_Kitap.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Yazar_Kitap\bin\Debug\Yazar_Kitap.pdb
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Yazar_Kitap\obj\Debug\Yazar_Kitap.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Yazar_Kitap\obj\Debug\Yazar_Kitap.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Yazar_Kitap\obj\Debug\Yazar_Kitap.pdb

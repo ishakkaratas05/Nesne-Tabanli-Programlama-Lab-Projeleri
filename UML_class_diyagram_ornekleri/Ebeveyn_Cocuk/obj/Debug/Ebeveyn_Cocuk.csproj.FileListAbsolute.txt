@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ebeveyn_Cocuk\obj\Debug\Ebeveyn_Cocuk.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ebeveyn_Cocuk\bin\Debug\Ebeveyn_Cocuk.exe.config
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ebeveyn_Cocuk\bin\Debug\Ebeveyn_Cocuk.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ebeveyn_Cocuk\bin\Debug\Ebeveyn_Cocuk.pdb
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ebeveyn_Cocuk\obj\Debug\Ebeveyn_Cocuk.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ebeveyn_Cocuk\obj\Debug\Ebeveyn_Cocuk.pdb

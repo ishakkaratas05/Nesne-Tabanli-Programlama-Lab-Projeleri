@@ -1,0 +1,7 @@
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Urun_Siparis\bin\Debug\Urun_Siparis.exe.config
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Urun_Siparis\bin\Debug\Urun_Siparis.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Urun_Siparis\bin\Debug\Urun_Siparis.pdb
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Urun_Siparis\obj\Debug\Urun_Siparis.csprojAssemblyReference.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Urun_Siparis\obj\Debug\Urun_Siparis.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Urun_Siparis\obj\Debug\Urun_Siparis.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Urun_Siparis\obj\Debug\Urun_Siparis.pdb

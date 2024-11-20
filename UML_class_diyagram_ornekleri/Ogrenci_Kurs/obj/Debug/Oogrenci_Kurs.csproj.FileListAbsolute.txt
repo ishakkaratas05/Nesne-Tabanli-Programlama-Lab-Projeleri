@@ -1,0 +1,7 @@
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ogrenci_Kurs\bin\Debug\Ogrenci_Kurs.exe.config
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ogrenci_Kurs\bin\Debug\Ogrenci_Kurs.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ogrenci_Kurs\bin\Debug\Ogrenci_Kurs.pdb
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ogrenci_Kurs\obj\Debug\Oogrenci_Kurs.csprojAssemblyReference.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ogrenci_Kurs\obj\Debug\Oogrenci_Kurs.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ogrenci_Kurs\obj\Debug\Ogrenci_Kurs.exe
+C:\Users\ishak karataş\source\repos\UML_class_diyagram_ornekleri\Ogrenci_Kurs\obj\Debug\Ogrenci_Kurs.pdb
