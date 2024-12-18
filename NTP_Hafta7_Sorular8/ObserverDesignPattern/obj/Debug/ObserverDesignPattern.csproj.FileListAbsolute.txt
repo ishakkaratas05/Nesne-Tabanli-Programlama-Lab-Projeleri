@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb

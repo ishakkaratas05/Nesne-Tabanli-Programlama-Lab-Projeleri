@@ -1,0 +1,7 @@
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\CalisanYonetimSistemi\bin\Debug\CalisanYonetimSistemi.exe.config
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\CalisanYonetimSistemi\bin\Debug\CalisanYonetimSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\CalisanYonetimSistemi\bin\Debug\CalisanYonetimSistemi.pdb
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\CalisanYonetimSistemi\obj\Debug\CalisanYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\CalisanYonetimSistemi\obj\Debug\CalisanYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\CalisanYonetimSistemi\obj\Debug\CalisanYonetimSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\CalisanYonetimSistemi\obj\Debug\CalisanYonetimSistemi.pdb

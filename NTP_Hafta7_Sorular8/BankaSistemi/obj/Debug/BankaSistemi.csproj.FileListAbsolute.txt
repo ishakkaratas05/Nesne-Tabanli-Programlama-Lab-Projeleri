@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaSistemi\bin\Debug\BankaSistemi.exe.config
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaSistemi\bin\Debug\BankaSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaSistemi\bin\Debug\BankaSistemi.pdb
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaSistemi\obj\Debug\BankaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaSistemi\obj\Debug\BankaSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaSistemi\obj\Debug\BankaSistemi.pdb

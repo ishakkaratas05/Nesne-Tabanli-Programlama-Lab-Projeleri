@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\MagazaYonetimSistemi\bin\Debug\MagazaYonetimSistemi.exe.config
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\MagazaYonetimSistemi\bin\Debug\MagazaYonetimSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\MagazaYonetimSistemi\bin\Debug\MagazaYonetimSistemi.pdb
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\MagazaYonetimSistemi\obj\Debug\MagazaYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\MagazaYonetimSistemi\obj\Debug\MagazaYonetimSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\MagazaYonetimSistemi\obj\Debug\MagazaYonetimSistemi.pdb

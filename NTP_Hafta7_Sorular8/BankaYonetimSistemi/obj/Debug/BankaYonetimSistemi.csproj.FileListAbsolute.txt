@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaYonetimSistemi\bin\Debug\BankaYonetimSistemi.exe.config
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaYonetimSistemi\bin\Debug\BankaYonetimSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaYonetimSistemi\bin\Debug\BankaYonetimSistemi.pdb
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaYonetimSistemi\obj\Debug\BankaYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaYonetimSistemi\obj\Debug\BankaYonetimSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\BankaYonetimSistemi\obj\Debug\BankaYonetimSistemi.pdb

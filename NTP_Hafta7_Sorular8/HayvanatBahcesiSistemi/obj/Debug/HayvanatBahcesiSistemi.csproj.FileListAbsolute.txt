@@ -1,0 +1,6 @@
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\HayvanatBahcesiSistemi\bin\Debug\HayvanatBahcesiSistemi.exe.config
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\HayvanatBahcesiSistemi\bin\Debug\HayvanatBahcesiSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\HayvanatBahcesiSistemi\bin\Debug\HayvanatBahcesiSistemi.pdb
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\HayvanatBahcesiSistemi\obj\Debug\HayvanatBahcesiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\HayvanatBahcesiSistemi\obj\Debug\HayvanatBahcesiSistemi.exe
+C:\Users\ishak karataş\source\repos\NTP_Hafta7_Sorular8\HayvanatBahcesiSistemi\obj\Debug\HayvanatBahcesiSistemi.pdb
